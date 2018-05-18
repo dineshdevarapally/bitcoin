@@ -174,7 +174,6 @@ clean:
 
 install: check-packages $(host_prefix)/share/config.site
 
-
 download-one: check-sources $(all_sources)
 
 download-osx:
